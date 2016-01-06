@@ -1,12 +1,12 @@
 # Hidden files #
 ################
 .*
-!.keep
 !/.gitignore
 
 # Huge CSV data file generated #
 ################################
 Data/*
+!Data/.keep
 
 
 # Compiled source #
